@@ -42,5 +42,6 @@ Below shows two images where in the 1st image shows the status of the simulation
 |BULID|CPPCheck|C-CPP|Codacy|CodeQuality|CodeGrade|
 |:--:|:--:|:--:|:--:|:----:|:----:|
 
-[![Build-Linux](https://github.com/Sravan4803/M2_Heat_Control_System/actions/workflows/bulid_linux.yml/badge.svg)](https://github.com/Sravan4803/M2_Heat_Control_System/actions/workflows/bulid_linux.yml)[![Cppcheck Analyse](https://github.com/Sravan4803/M2_Heat_Control_System/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Sravan4803/M2_Heat_Control_System/actions/workflows/cppcheck.yml)
+[![Build-Linux](https://github.com/Sravan4803/M2_Heat_Control_System/actions/workflows/bulid_linux.yml/badge.svg)](https://github.com/Sravan4803/M2_Heat_Control_System/actions/workflows/bulid_linux.yml)|
+[![Cppcheck Analyse](https://github.com/Sravan4803/M2_Heat_Control_System/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Sravan4803/M2_Heat_Control_System/actions/workflows/cppcheck.yml)
 
