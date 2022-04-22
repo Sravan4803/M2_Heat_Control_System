@@ -45,5 +45,5 @@ Below shows two images where in the 1st image shows the status of the simulation
 
 |Build|Cppcheck|Codacy|
 |:--:|:--:|:--:|
-[![Compile-Linux](https://github.com/Sravan4803/M2_Heat_Control_System/actions/workflows/Compile.yml/badge.svg)](https://github.com/Sravan4803/M2_Heat_Control_System/actions/workflows/Compile.yml)|[![Cppcheck](https://github.com/Sravan4803/M2_Heat_Control_System/actions/workflows/CodeQuality.yml/badge.svg)](https://github.com/Sravan4803/M2_Heat_Control_System/actions/workflows/CodeQuality.yml)
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/a1699b8edd7b49c884bc375bc83525a7)](https://www.codacy.com/gh/Sravan4803/M2_Heat_Control_System/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Sravan4803/M2_Heat_Control_System&amp;utm_campaign=Badge_Grade)
+[![Compile-Linux](https://github.com/Sravan4803/M2_Heat_Control_System/actions/workflows/Compile.yml/badge.svg)](https://github.com/Sravan4803/M2_Heat_Control_System/actions/workflows/Compile.yml)|[![Cppcheck](https://github.com/Sravan4803/M2_Heat_Control_System/actions/workflows/CodeQuality.yml/badge.svg)](https://github.com/Sravan4803/M2_Heat_Control_System/actions/workflows/CodeQuality.yml)|
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/a1699b8edd7b49c884bc375bc83525a7)](https://www.codacy.com/gh/Sravan4803/M2_Heat_Control_System/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Sravan4803/M2_Heat_Control_System&amp;utm_campaign=Badge_Grade)|
