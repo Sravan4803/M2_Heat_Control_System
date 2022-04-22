@@ -38,12 +38,12 @@ Below shows two images where in the 1st image shows the status of the simulation
 * The digitized temperature input is visualized using Pulse Width Modulation.
 * The corresponding temperature values based on the digitized temperature input is transmitted by the UART protocol. Here the data is displayed on the serial monitor.
 
+# Batches
+* Bulid on linux
+[![Compile-Linux](https://github.com/Sravan4803/M2_Heat_Control_System/actions/workflows/Compile.yml/badge.svg)](https://github.com/Sravan4803/M2_Heat_Control_System/actions/workflows/Compile.yml)
 
+* CppCheck
+[![Cppcheck](https://github.com/Sravan4803/M2_Heat_Control_System/actions/workflows/CodeQuality.yml/badge.svg)](https://github.com/Sravan4803/M2_Heat_Control_System/actions/workflows/CodeQuality.yml)
 
-
-### CI and Code Quality
-
-
-
-[![Compile-Linux](https://github.com/Sravan4803/M2_Heat_Control_System/actions/workflows/Compile.yml/badge.svg)](https://github.com/Sravan4803/M2_Heat_Control_System/actions/workflows/Compile.yml)|[![Cppcheck](https://github.com/Sravan4803/M2_Heat_Control_System/actions/workflows/CodeQuality.yml/badge.svg)](https://github.com/Sravan4803/M2_Heat_Control_System/actions/workflows/CodeQuality.yml)|
+* Codacy
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/a1699b8edd7b49c884bc375bc83525a7)](https://www.codacy.com/gh/Sravan4803/M2_Heat_Control_System/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Sravan4803/M2_Heat_Control_System&amp;utm_campaign=Badge_Grade)|
