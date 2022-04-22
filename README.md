@@ -27,6 +27,7 @@ Below shows two images where in the 1st image shows the status of the simulation
 ![RAM_table](https://user-images.githubusercontent.com/101509869/164460695-b5238126-daef-4fe5-9e41-56421080bff6.gif)
 
 |CRO|Serial Monitor|
+|:--:|:--:|
 ![Oscilloscope](https://user-images.githubusercontent.com/101509869/164460743-64ef4c37-1883-4fb1-baa9-8571aa772c55.gif)
 ![Serial_Monitor](https://user-images.githubusercontent.com/101509869/164460781-8b1f1f48-6942-4c3f-8455-1ea909a8bfd0.gif)
 
