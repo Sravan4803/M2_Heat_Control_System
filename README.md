@@ -41,7 +41,7 @@ Below shows two images where in the 1st image shows the status of the simulation
 # Batches
 ## Bulid on linux
 
-* [![Compile-Linux](https://github.com/Sravan4803/M2_Heat_Control_System/actions/workflows/Compile.yml/badge.svg)](https://github.com/Sravan4803/M2_Heat_Control_System/actions/workflows/Compile.yml)
+* [![Build-Linux](https://github.com/Sravan4803/M2_Heat_Control_System/actions/workflows/bulid_linux.yml/badge.svg)](https://github.com/Sravan4803/M2_Heat_Control_System/actions/workflows/bulid_linux.yml)
 
 ## CppCheck
 
