@@ -53,4 +53,4 @@ Below shows two images where in the 1st image shows the status of the simulation
 
 ##code Quality 
 
-*https://api.codiga.io/project/33013/score/svg
+* ![Code Quality Score](https://api.codiga.io/project/33013/score/svg)
