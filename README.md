@@ -23,7 +23,7 @@ Below shows two images where in the 1st image shows the status of the simulation
 
 |Circuit|RAM Table|
 |:--:|:--:|
-![Circuit](https://user-images.githubusercontent.com/101509869/164460604-0f456f0d-7880-4daf-bfe6-b2209c53fb94.gif)
+![Circuit](https://user-images.githubusercontent.com/101509869/164460604-0f456f0d-7880-4daf-bfe6-b2209c53fb94.gif)|
 ![RAM_table](https://user-images.githubusercontent.com/101509869/164460695-b5238126-daef-4fe5-9e41-56421080bff6.gif)
 
 |CRO|Serial Monitor|
