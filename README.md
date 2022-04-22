@@ -27,8 +27,7 @@ Below shows two images where in the 1st image shows the status of the simulation
 
 |CRO|Serial Monitor|
 |:--:|:--:|
-![Oscilloscope](https://user-images.githubusercontent.com/101509869/164460743-64ef4c37-1883-4fb1-baa9-8571aa772c55.gif)
-![Serial_Monitor](https://user-images.githubusercontent.com/101509869/164460781-8b1f1f48-6942-4c3f-8455-1ea909a8bfd0.gif)
+![Oscilloscope](https://user-images.githubusercontent.com/101509869/164460743-64ef4c37-1883-4fb1-baa9-8571aa772c55.gif)|![Serial_Monitor](https://user-images.githubusercontent.com/101509869/164460781-8b1f1f48-6942-4c3f-8455-1ea909a8bfd0.gif)|
 
 
 ### Functionality 
