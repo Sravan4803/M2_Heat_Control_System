@@ -47,6 +47,10 @@ Below shows two images where in the 1st image shows the status of the simulation
 
 * [![Cppcheck](https://github.com/Sravan4803/M2_Heat_Control_System/actions/workflows/CodeQuality.yml/badge.svg)](https://github.com/Sravan4803/M2_Heat_Control_System/actions/workflows/CodeQuality.yml)
 
+## C-CPP
+
+*[![C/C++ CI](https://github.com/Sravan4803/M2_Heat_Control_System/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Sravan4803/M2_Heat_Control_System/actions/workflows/c-cpp.yml)
+
 ## Codacy
 
 * [![Codacy Badge](https://app.codacy.com/project/badge/Grade/a1699b8edd7b49c884bc375bc83525a7)](https://www.codacy.com/gh/Sravan4803/M2_Heat_Control_System/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Sravan4803/M2_Heat_Control_System&amp;utm_campaign=Badge_Grade)
